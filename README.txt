@@ -9,3 +9,7 @@ To execute the Program please follow the following steps.
    jar -cvf WordCount.jar WordCount.class lib\*
 5) To execute 
    java -cp WordCount.jar;lib/*;. WordCount sample3.txt
+   
+   Note : I used sample3.txt as input file to test and also included the file in the same folder to test.
+          We need to give full path of the file name.
+          
